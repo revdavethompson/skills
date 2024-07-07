@@ -14,9 +14,9 @@ importers:
       install:
         specifier: ^0.13.0
         version: 0.13.0
-      material-symbols:
-        specifier: ^0.21.0
-        version: 0.21.0
+      js-yaml:
+        specifier: ^4.1.0
+        version: 4.1.0
       next:
         specifier: 14.2.4
         version: 14.2.4(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1002,9 +1002,6 @@ packages:
   lru-cache@10.3.0:
     resolution: {integrity: sha512-CQl19J/g+Hbjbv4Y3mFNNXFEL/5t/KCg8POCuUqd4rMKjGG+j1ybER83hxV58zL+dFI1PTkt3GNFSHRt+d8qEQ==}
     engines: {node: 14 || >=16.14}
-
-  material-symbols@0.21.0:
-    resolution: {integrity: sha512-MCQPYV+E0pKyYYjMhuI3DEK0lBNXoTVGl+5eAq3/ybXpqFioGPyBfdXYW6M5G+Naa6VF0Q1Yzh7BCRqT1G56bw==}
 
   merge2@1.4.1:
     resolution: {integrity: sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==}
@@ -2687,8 +2684,6 @@ snapshots:
       js-tokens: 4.0.0
 
   lru-cache@10.3.0: {}
-
-  material-symbols@0.21.0: {}
 
   merge2@1.4.1: {}
 
