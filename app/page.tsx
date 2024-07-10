@@ -20,7 +20,7 @@ export default function Home() {
         <span className="material-symbols-outlined text-4xl">piano</span>
       </button>
       <button className="bg-violet-500 flex items-center justify-center w-16 h-16 rounded-full text-white hover:bg-violet-400 m-2">
-        <span className="material-symbols-outlined text-4xl">music_note</span>
+        <span className="material-symbols-outjflined text-4xl">music_note</span>
       </button>
       <button className="bg-violet-500 flex items-center justify-center w-16 h-16 rounded-full text-white hover:bg-violet-400 m-2">
         <span className="material-symbols-outlined text-4xl">plumbing</span>
