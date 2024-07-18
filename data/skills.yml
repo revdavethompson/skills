@@ -1,135 +1,312 @@
-Creative Skills:
-  Artistic Expression:
-    Music:
-      - Playing instruments
-      - Composing music
-      - Conducting
-    Visual Arts:
-      - Painting
-      - Sculpting
-      - Photography
-    Literature:
-      Writing:
-      - Scriptwriting
-      - Literary analysis
-      - Fiction
-      - Non-Fishing
-  Innovation and Design:
-    Product Design:
-      - Industrial design
-      - User experience (UX) design
-      - Graphic design
-    Technological Innovation:
-      - Software development
-      - Hardware engineering
-      - Research and development
-    Entrepreneurship:
-      - Business planning
-      - Market analysis
-      - Product development
-  Problem-Solving and Critical Thinking:
-    Scientific Research:
-      - Hypothesis testing
-      - Data analysis
-      - Experimentation
-    Strategic Planning:
-      - Decision-making
-      - Resource allocation
-      - Risk management
-    Creative Problem-Solving:
-      - Brainstorming techniques
-      - Lateral thinking
-      - Innovation frameworks
-Social-Skills:
-  Communication:
-    Verbal Communication:
-      - Public speaking
-      - Storytelling
-      - Persuasion
-    Written Communication:
-      - Report writing
-      - Creative writing
-      - Digital communication
-    Non-Verbal Communication:
-      - Body language
-      - Facial expressions
-      - Active listening
-  Interpersonal Relations:
-    Empathy and Emotional Intelligence:
-      - Recognizing emotions
-      - Emotional regulation
-      - Empathetic listening
-    Conflict Resolution:
-      - Mediation
-      - Negotiation
-      - Diplomacy
-    Leadership and Teamwork:
-      - Motivating others
-      - Delegating tasks
-      - Building team cohesion
-  Community and Cultural Engagement:
-    Teaching and Mentoring:
-      - Instructional design
-      - Coaching
-      - Feedback provision
-    Social Services:
-      - Counseling
-      - Social work
-      - Advocacy
-    Cultural Competence:
-      - Understanding diverse perspectives
-      - Cross-cultural communication
-      - Cultural preservation and promotion
-Practical Skills:
-  Daily Living Skills:
-    Personal Care:
-      - Hygiene
-      - Nutrition
-      - Fitness
-    Household Management:
-      - Cleaning
-      - Cooking
-      - Home maintenance
-    Financial Management:
-      - Budgeting
-      - Saving and investing
-      - Tax preparation
-  Technical and Vocational Skills:
-    Trades and Crafts:
-      - Carpentry
-      - Plumbing
-      - Electrical work
-    Technology Proficiency:
-      - Basic computer skills
-      - Software usage
-      - Internet navigation
-    Mechanics and Repair:
-      - Automotive repair
-      - Appliance repair
-      - Equipment maintenance
-  Survival and Self-Sufficiency:
-    Agriculture and Food Production:
-      - Gardening
-      - Farming
-      - Food preservation
-    Emergency Preparedness:
-      - First aid
-      - Disaster planning
-      - Self-defense
-    Sustainable Living:
-      - Recycling
-      - Energy conservation
-      - DIY projects
-  Healthcare and Medicine:
-    Medical Practice:
-      - Diagnosis and treatment
-      - Preventive care
-      - Chronic disease management
-    Patient Care:
-      - Physical examinations
-      - Vaccinations
-      - Health education
-    Medical Knowledge:
-      - Pharmacology
-      - Pathophysiology
-      - Medical ethics
+Skills:
+  - name: Creative Skills
+    icon: creative_skills_icon
+    skills:
+      - name: Artistic Expression
+        icon: artistic_expression_icon
+        skills:
+          - name: Music
+            icon: music_icon
+            skills:
+              - name: Playing instruments
+                icon: playing_instruments_icon
+              - name: Composing music
+                icon: composing_music_icon
+              - name: Conducting
+                icon: conducting_icon
+          - name: Visual Arts
+            icon: visual_arts_icon
+            skills:
+              - name: Painting
+                icon: painting_icon
+              - name: Sculpting
+                icon: sculpting_icon
+              - name: Photography
+                icon: photography_icon
+          - name: Literature
+            icon: literature_icon
+            skills:
+              - name: Scriptwriting
+                icon: scriptwriting_icon
+              - name: Literary analysis
+                icon: literary_analysis_icon
+              - name: Fiction
+                icon: fiction_icon
+              - name: Non-Fiction
+                icon: non_fiction_icon
+      - name: Innovation and Design
+        icon: innovation_design_icon
+        skills:
+          - name: Product Design
+            icon: product_design_icon
+            skills:
+              - name: Industrial design
+                icon: industrial_design_icon
+              - name: User experience (UX) design
+                icon: ux_design_icon
+              - name: Graphic design
+                icon: graphic_design_icon
+          - name: Technological Innovation
+            icon: technological_innovation_icon
+            skills:
+              - name: Software development
+                icon: software_development_icon
+              - name: Hardware engineering
+                icon: hardware_engineering_icon
+              - name: Research and development
+                icon: research_and_development_icon
+          - name: Entrepreneurship
+            icon: entrepreneurship_icon
+            skills:
+              - name: Business planning
+                icon: business_planning_icon
+              - name: Market analysis
+                icon: market_analysis_icon
+              - name: Product development
+                icon: product_development_icon
+      - name: Problem-Solving and Critical Thinking
+        icon: problem_solving_icon
+        skills:
+          - name: Scientific Research
+            icon: scientific_research_icon
+            skills:
+              - name: Hypothesis testing
+                icon: hypothesis_testing_icon
+              - name: Data analysis
+                icon: data_analysis_icon
+              - name: Experimentation
+                icon: experimentation_icon
+          - name: Strategic Planning
+            icon: strategic_planning_icon
+            skills:
+              - name: Decision-making
+                icon: decision_making_icon
+              - name: Resource allocation
+                icon: resource_allocation_icon
+              - name: Risk management
+                icon: risk_management_icon
+          - name: Creative Problem-Solving
+            icon: creative_problem_solving_icon
+            skills:
+              - name: Brainstorming techniques
+                icon: brainstorming_techniques_icon
+              - name: Lateral thinking
+                icon: lateral_thinking_icon
+              - name: Innovation frameworks
+                icon: innovation_frameworks_icon
+  - name: Social Skills
+    icon: social_skills_icon
+    skills:
+      - name: Communication
+        icon: communication_icon
+        skills:
+          - name: Verbal Communication
+            icon: verbal_communication_icon
+            skills:
+              - name: Public speaking
+                icon: public_speaking_icon
+              - name: Storytelling
+                icon: storytelling_icon
+              - name: Persuasion
+                icon: persuasion_icon
+          - name: Written Communication
+            icon: written_communication_icon
+            skills:
+              - name: Report writing
+                icon: report_writing_icon
+              - name: Creative writing
+                icon: creative_writing_icon
+              - name: Digital communication
+                icon: digital_communication_icon
+          - name: Non-Verbal Communication
+            icon: non_verbal_communication_icon
+            skills:
+              - name: Body language
+                icon: body_language_icon
+              - name: Facial expressions
+                icon: facial_expressions_icon
+              - name: Active listening
+                icon: active_listening_icon
+      - name: Interpersonal Relations
+        icon: interpersonal_relations_icon
+        skills:
+          - name: Empathy and Emotional Intelligence
+            icon: empathy_emotional_intelligence_icon
+            skills:
+              - name: Recognizing emotions
+                icon: recognizing_emotions_icon
+              - name: Emotional regulation
+                icon: emotional_regulation_icon
+              - name: Empathetic listening
+                icon: empathetic_listening_icon
+          - name: Conflict Resolution
+            icon: conflict_resolution_icon
+            skills:
+              - name: Mediation
+                icon: mediation_icon
+              - name: Negotiation
+                icon: negotiation_icon
+              - name: Diplomacy
+                icon: diplomacy_icon
+          - name: Leadership and Teamwork
+            icon: leadership_teamwork_icon
+            skills:
+              - name: Motivating others
+                icon: motivating_others_icon
+              - name: Delegating tasks
+                icon: delegating_tasks_icon
+              - name: Building team cohesion
+                icon: building_team_cohesion_icon
+      - name: Community and Cultural Engagement
+        icon: community_cultural_engagement_icon
+        skills:
+          - name: Teaching and Mentoring
+            icon: teaching_mentoring_icon
+            skills:
+              - name: Instructional design
+                icon: instructional_design_icon
+              - name: Coaching
+                icon: coaching_icon
+              - name: Feedback provision
+                icon: feedback_provision_icon
+          - name: Social Services
+            icon: social_services_icon
+            skills:
+              - name: Counseling
+                icon: counseling_icon
+              - name: Social work
+                icon: social_work_icon
+              - name: Advocacy
+                icon: advocacy_icon
+          - name: Cultural Competence
+            icon: cultural_competence_icon
+            skills:
+              - name: Understanding diverse perspectives
+                icon: diverse_perspectives_icon
+              - name: Cross-cultural communication
+                icon: cross_cultural_communication_icon
+              - name: Cultural preservation and promotion
+                icon: cultural_preservation_icon
+  - name: Practical Skills
+    icon: practical_skills_icon
+    skills:
+      - name: Daily Living Skills
+        icon: daily_living_skills_icon
+        skills:
+          - name: Personal Care
+            icon: personal_care_icon
+            skills:
+              - name: Hygiene
+                icon: hygiene_icon
+              - name: Nutrition
+                icon: nutrition_icon
+              - name: Fitness
+                icon: fitness_icon
+          - name: Household Management
+            icon: household_management_icon
+            skills:
+              - name: Cleaning
+                icon: cleaning_icon
+              - name: Cooking
+                icon: cooking_icon
+              - name: Home maintenance
+                icon: home_maintenance_icon
+          - name: Financial Management
+            icon: financial_management_icon
+            skills:
+              - name: Budgeting
+                icon: budgeting_icon
+              - name: Saving and investing
+                icon: saving_investing_icon
+              - name: Tax preparation
+                icon: tax_preparation_icon
+      - name: Technical and Vocational Skills
+        icon: technical_vocational_skills_icon
+        skills:
+          - name: Trades and Crafts
+            icon: trades_crafts_icon
+            skills:
+              - name: Carpentry
+                icon: carpentry_icon
+              - name: Plumbing
+                icon: plumbing_icon
+              - name: Electrical work
+                icon: electrical_work_icon
+          - name: Technology Proficiency
+            icon: technology_proficiency_icon
+            skills:
+              - name: Basic computer skills
+                icon: computer_skills_icon
+              - name: Software usage
+                icon: software_usage_icon
+              - name: Internet navigation
+                icon: internet_navigation_icon
+          - name: Mechanics and Repair
+            icon: mechanics_repair_icon
+            skills:
+              - name: Automotive repair
+                icon: automotive_repair_icon
+              - name: Appliance repair
+                icon: appliance_repair_icon
+              - name: Equipment maintenance
+                icon: equipment_maintenance_icon
+      - name: Survival and Self-Sufficiency
+        icon: survival_self_sufficiency_icon
+        skills:
+          - name: Agriculture and Food Production
+            icon: agriculture_food_production_icon
+            skills:
+              - name: Gardening
+                icon: gardening_icon
+              - name: Farming
+                icon: farming_icon
+              - name: Food preservation
+                icon: food_preservation_icon
+          - name: Emergency Preparedness
+            icon: emergency_preparedness_icon
+            skills:
+              - name: First aid
+                icon: first_aid_icon
+              - name: Disaster planning
+                icon: disaster_planning_icon
+              - name: Self-defense
+                icon: self_defense_icon
+          - name: Sustainable Living
+            icon: sustainable_living_icon
+            skills:
+              - name: Recycling
+                icon: recycling_icon
+              - name: Energy conservation
+                icon: energy_conservation_icon
+              - name: DIY projects
+                icon: diy_projects_icon
+      - name: Healthcare and Medicine
+        icon: healthcare_medicine_icon
+        skills:
+          - name: Medical Practice
+            icon: medical_practice_icon
+            skills:
+              - name: Diagnosis and treatment
+                icon: diagnosis_treatment_icon
+              - name: Preventive care
+                icon: preventive_care_icon
+              - name: Chronic disease management
+                icon: chronic_disease_management_icon
+          - name: Patient Care
+            icon: patient_care_icon
+            skills:
+              - name: Physical examinations
+                icon: physical_examinations_icon
+              - name: Vaccinations
+                icon: vaccinations_icon
+              - name: Health education
+                icon: health_education_icon
+          - name: Medical Knowledge
+            icon: medical_knowledge_icon
+            skills:
+              - name: Pharmacology
+                icon: pharmacology_icon
+              - name: Pathophysiology
+                icon: pathophysiology_icon
+              - name: Medical ethics
+                icon: medical_ethics_icon

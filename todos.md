@@ -12,3 +12,11 @@ fetch skills from api
 skills.map({
   <CustomButton icon={skill.name}/>
 })
+
+
+# Database
+
+skill:
+  - id
+  - name
+  - icon
